@@ -46,4 +46,3 @@ npm test
 4. Run `npm publish`.
 
 If the name is already taken, change the `name` field in `package.json` before publishing.
-# project_npm_package
