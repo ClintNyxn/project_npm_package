@@ -1,0 +1,19 @@
+{
+  "name": "@nyxnclint/tiny-text-tools",
+  "version": "1.0.0",
+  "description": "A lightweight collection of useful text utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "text",
+    "utilities",
+    "string",
+    "beginner"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
